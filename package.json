@@ -1,0 +1,25 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "A Cypress sample test suite",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwanamaker/cypress-demo.git"
+  },
+  "keywords": [
+    "cypressio"
+  ],
+  "author": "Brandon Wanamaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bwanamaker/cypress-demo/issues"
+  },
+  "homepage": "https://github.com/bwanamaker/cypress-demo#readme"
+}
